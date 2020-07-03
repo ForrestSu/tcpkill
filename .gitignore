@@ -1,2 +1,7 @@
+# eclipse
+.cproject
+.project
+.settings/
+
 tcpkill
 *.o
